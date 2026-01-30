@@ -1,14 +1,11 @@
 ---
-
 permalink: /
-title: "Pujan Shah"
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
-redirect_from:
-
-* /about/
-* /about.html
-
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-I am Pujan Shah, a computer engineering student focused on embedded systems, digital design, and systems-level software. My work spans firmware development, computer architecture analysis, and  control systems, with an emphasis on understanding trade-offs between performance, reliability, and real-world constraints.
+Hi, My Name is Pujan Shah, I am a computer engineering student at Virginia Tech specializing in Software Systems. I am interested in firmware, comptuer architecture and software that closely interacts with it. I have extensive experience in developing embedded software in both design team and professional contexts. 
 
